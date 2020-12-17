@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>pensamiento on Pensamientos</title>
+    <link>/tags/pensamiento/</link>
+    <description>Recent content in pensamiento on Pensamientos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/pensamiento/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reloj roto</title>
+      <link>/posts/reloj-roto/</link>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/reloj-roto/</guid>
+      <description>Se dice mucho más fácil de lo que cuesta interpretarlo:
+ &amp;ldquo;Hasta un reloj roto da la hora correcta dos veces al día&amp;rdquo;.
+ Muy interesante frase para ejmplificar escenarios donde la razón o la lógica está en la otra parte involucrada, pero que se pudiera tener la razón en algo muy puntual.</description>
+    </item>
+    
+  </channel>
+</rss>

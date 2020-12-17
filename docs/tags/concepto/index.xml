@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>concepto on Pensamientos</title>
+    <link>/tags/concepto/</link>
+    <description>Recent content in concepto on Pensamientos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Aug 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/concepto/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sesgo de confirmación</title>
+      <link>/posts/sesgo-de-confirmaci%C3%B3n/</link>
+      <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/sesgo-de-confirmaci%C3%B3n/</guid>
+      <description>Sesgo de Confirmación: asimilar mejor lo que va de acuerdo con las ideas de mi vida.
+Efecto túnel: solo se ve lo que se quiere ver.
+Algoritmos de redes sociales para estar más tiempo en línea.
+El mundo opera y piensa como yo porque lo que se ve es lo que se parece a lo que se conoce.
+Por eso es tan importante la diversidad de fuentes de información para generar criterio propio.</description>
+    </item>
+    
+  </channel>
+</rss>

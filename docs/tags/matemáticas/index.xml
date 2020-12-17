@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>matemáticas on Pensamientos</title>
+    <link>/tags/matem%C3%A1ticas/</link>
+    <description>Recent content in matemáticas on Pensamientos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/matem%C3%A1ticas/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mente matemática</title>
+      <link>/posts/mente-matem%C3%A1tica/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/mente-matem%C3%A1tica/</guid>
+      <description>Creo que fue en una entrevista a César Vidal Manzanares donde contó una historia súper interesante sobre cómo funciona la mente de las personas que se dedican a las matemáticas.
+Resulta ser que durante la segunda guerra mundial, el ejército de los EE.UU. conformó un grupo de trabajo para reforzar el blindaje de los aviones de combate, compuesto tanto por matemáticos como por ingenieros militares. Al observar los agujeros por impactos de proyectiles en el fuselaje de los aviones, los ingenieros propusieron reforzar precisamente esas partes.</description>
+    </item>
+    
+  </channel>
+</rss>
