@@ -6,7 +6,16 @@
     <description>Recent content on Pensamientos</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 20 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pregunta de entrevista 2</title>
+      <link>/posts/pregunta-de-trabajo-2/</link>
+      <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/pregunta-de-trabajo-2/</guid>
+      <description>Otra pregunta que incorporaré a mi repertorio cuando me toca jugar el papel de entrevistador pero que a la vez me puede servir cuando aplico a nuevas posiciones: &amp;ldquo;Hábleme de su entrono de desarrollo y las herramientas que usa&amp;rdquo;.</description>
+    </item>
+    
     <item>
       <title>Ausencia</title>
       <link>/posts/ausencia/</link>

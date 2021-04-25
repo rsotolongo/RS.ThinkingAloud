@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/pregunta-de-trabajo-2/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/trabajo/</loc>
+    <lastmod>2021-04-25T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/posts/ausencia/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/pol%C3%ADtica/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2021-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
     <lastmod>2021-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/bikini/</loc>
@@ -27,9 +33,6 @@
     <lastmod>2021-04-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/pregunta-de-trabajo/</loc>
-    <lastmod>2021-04-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/trabajo/</loc>
     <lastmod>2021-04-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/cuba/</loc>
