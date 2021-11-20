@@ -1,6 +1,6 @@
 ---
 title: "Plan imaginario"
-date: 2021-06-24
+date: 2021-11-19
 draft: false
 tags: ["pensamiento"]
 slug: plan-imaginario
