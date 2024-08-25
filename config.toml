@@ -6,7 +6,7 @@ theme = "cayman"
 publishDir = "docs"
 
 # Google analytics
-googleAnalytics = "UA-4387301-8"
+googleAnalytics = "G-V3MHVPDMJL"
 
 # Syntax highlighting
 pygmentsCodefences = true
