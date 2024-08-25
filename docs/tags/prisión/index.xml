@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prisión on Pensamientos</title>
-    <link>//localhost:1313/tags/prisi%C3%B3n/</link>
+    <link>/tags/prisi%C3%B3n/</link>
     <description>Recent content in Prisión on Pensamientos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Sep 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/prisi%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/prisi%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Isla prisión</title>
-      <link>//localhost:1313/posts/isla-prisi%C3%B3n/</link>
+      <link>/posts/isla-prisi%C3%B3n/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/isla-prisi%C3%B3n/</guid>
+      <guid>/posts/isla-prisi%C3%B3n/</guid>
       <description>Con eso de que Cuba es una isla prisión y que todo es política; pues me siento que fui prisionero político por mis primeros 27 años de mi vida aunque no estube nunca encarcelado.</description>
     </item>
     <item>
       <title>Prisión</title>
-      <link>//localhost:1313/posts/prisi%C3%B3n/</link>
+      <link>/posts/prisi%C3%B3n/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/prisi%C3%B3n/</guid>
+      <guid>/posts/prisi%C3%B3n/</guid>
       <description>Todo lo que cuenta Carlos Ricardo (KarlitoMadrid) en el segundo video sobre los tribunales revolucionarios, impresiona; pero creo que lo que más impresiona por lo subrealista que le puede parecer a cualquier persona es el siguiente caso:&#xA;Un joven desde su balcón vio como otros muchachos estallaban algunos petardos. Cuano llegó la policía, se lo llevó detenido. Cuando preguntó por quê se lo llevaban, el policía le respondió que por reirse.</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mentira on Pensamientos</title>
-    <link>//localhost:1313/tags/mentira/</link>
+    <link>/tags/mentira/</link>
     <description>Recent content in Mentira on Pensamientos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/mentira/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/mentira/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mentiras</title>
-      <link>//localhost:1313/posts/mentiras/</link>
+      <link>/posts/mentiras/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/mentiras/</guid>
+      <guid>/posts/mentiras/</guid>
       <description>Los verdaderos lacayos, aquellos que aún viviendo en libertad siguen viendo lo bueno de la dictadura cubana, incluso la defiende a capa y espada; no tienen pudor en mentir una y otra vez cuando se le hacen preguntas &amp;ldquo;incómodas&amp;rdquo; en vivo. Justifico esta idea bajo el argumento que si no tienen pudor para reconocer las verdades, mucho menos lo tendrán para no mentir con tal de encajar temporalmente en el debate en curso.</description>
     </item>
   </channel>

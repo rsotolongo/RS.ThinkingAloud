@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Racismo on Pensamientos</title>
-    <link>//localhost:1313/tags/racismo/</link>
+    <link>/tags/racismo/</link>
     <description>Recent content in Racismo on Pensamientos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 08 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/racismo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/racismo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Incidente en Gatlinburg</title>
-      <link>//localhost:1313/posts/incidente-en-gatlinburg/</link>
+      <link>/posts/incidente-en-gatlinburg/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/incidente-en-gatlinburg/</guid>
+      <guid>/posts/incidente-en-gatlinburg/</guid>
       <description>Justo saliendo del parque &amp;ldquo;Ober Gatlinburg&amp;rdquo; de regreso al pueblo sucedió un incidente donde me vi involucrado. Estábamos ya dentro del teleférico y notamos que no salía y no sabíamos por qué. Poco a poco una conversación fue subiendo de tono entre una señora y el operador del teleférico. El operador exigía que para salir, la señora y la familia que ella estaba liderando se pusieran las mascarillas como especificaban por todos lados las reglas del complejo recreativo.</description>
     </item>
   </channel>

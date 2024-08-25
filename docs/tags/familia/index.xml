@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Familia on Pensamientos</title>
-    <link>//localhost:1313/tags/familia/</link>
+    <link>/tags/familia/</link>
     <description>Recent content in Familia on Pensamientos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Jan 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/familia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/familia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mi mamá</title>
-      <link>//localhost:1313/posts/mam%C3%A1/</link>
+      <link>/posts/mam%C3%A1/</link>
       <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/mam%C3%A1/</guid>
+      <guid>/posts/mam%C3%A1/</guid>
       <description>Llevo mucho años lejos de mi mamá para no ver el deterioro mental que ha ido sufriendo. Años que no pasan por gusto ni física ni mentalmente. Justo por estos días he notado mucho más el desgaste mental. Está lenta, le cuesta procesar todo lo que le decimos y hay que hacerlo más de una vez.&#xA;Tiene 69 años (oficialmente, 70 en verdad) y nunca ha sido súper avispada como sí lo es mi suegra; sin embargo se nota mucho más de lo normal que su mente necesita más tiempo para procesar cualquier información.</description>
     </item>
   </channel>

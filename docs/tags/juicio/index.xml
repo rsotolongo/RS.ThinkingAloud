@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Juicio on Pensamientos</title>
-    <link>//localhost:1313/tags/juicio/</link>
+    <link>/tags/juicio/</link>
     <description>Recent content in Juicio on Pensamientos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 07 Aug 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/juicio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/juicio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Prisión</title>
-      <link>//localhost:1313/posts/prisi%C3%B3n/</link>
+      <link>/posts/prisi%C3%B3n/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/prisi%C3%B3n/</guid>
+      <guid>/posts/prisi%C3%B3n/</guid>
       <description>Todo lo que cuenta Carlos Ricardo (KarlitoMadrid) en el segundo video sobre los tribunales revolucionarios, impresiona; pero creo que lo que más impresiona por lo subrealista que le puede parecer a cualquier persona es el siguiente caso:&#xA;Un joven desde su balcón vio como otros muchachos estallaban algunos petardos. Cuano llegó la policía, se lo llevó detenido. Cuando preguntó por quê se lo llevaban, el policía le respondió que por reirse.</description>
     </item>
   </channel>

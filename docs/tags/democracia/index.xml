@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Democracia on Pensamientos</title>
-    <link>//localhost:1313/tags/democracia/</link>
+    <link>/tags/democracia/</link>
     <description>Recent content in Democracia on Pensamientos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/democracia/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/democracia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Democracia vs. Repùblica</title>
-      <link>//localhost:1313/posts/democracia-vs-rep%C3%BAblica/</link>
+      <link>/posts/democracia-vs-rep%C3%BAblica/</link>
       <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/democracia-vs-rep%C3%BAblica/</guid>
+      <guid>/posts/democracia-vs-rep%C3%BAblica/</guid>
       <description>En palabras de Hugo Cardet (a.k.a &amp;ldquo;Politics en Español&amp;rdquo;):&#xA;La diferencia entre democracia directa y república es que la democracia directa es el PODER de la mayoría mientras que la república es el DERECHO de la minoría.&#xA;La mayoría pudiese votar por algo siempre y cuando no vaya en contra de otra cosa de la minoría. Respaldando esta regla en la constitución.</description>
     </item>
   </channel>

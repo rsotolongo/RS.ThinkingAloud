@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Simulación on Pensamientos</title>
-    <link>//localhost:1313/tags/simulaci%C3%B3n/</link>
+    <link>/tags/simulaci%C3%B3n/</link>
     <description>Recent content in Simulación on Pensamientos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Aug 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/simulaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/simulaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plusvalía</title>
-      <link>//localhost:1313/posts/plusval%C3%ADa/</link>
+      <link>/posts/plusval%C3%ADa/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/plusval%C3%ADa/</guid>
+      <guid>/posts/plusval%C3%ADa/</guid>
       <description>Nuevo concepto interesante a grabar en mi memoria: &amp;ldquo;Plusvalía del Comportamiento&amp;rdquo; (behavior surplus en inglés) que no es más que el inmenso conocimiento de nosotros que tienen las compañías de Internet. Eso se relaciona con otras ideas, la primera es esa de que &amp;ldquo;&amp;hellip;cuando algo es gratis, el producto eres tú mismo&amp;hellip;&amp;rdquo;.&#xA;Cuando comenzamos a utilizar un servicio de Internet casi nunca nos leemos los términos y condiciones de uso por lo que vedemos nuestra alma como única forma de hacer uso del servicio.</description>
     </item>
   </channel>
