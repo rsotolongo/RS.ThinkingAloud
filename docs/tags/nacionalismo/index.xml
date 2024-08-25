@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nacionalismo on Pensamientos</title>
-    <link>//localhost:1313/tags/nacionalismo/</link>
+    <link>/tags/nacionalismo/</link>
     <description>Recent content in Nacionalismo on Pensamientos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Aug 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/nacionalismo/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/nacionalismo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Patriotismo vs. Nacionalismo</title>
-      <link>//localhost:1313/posts/patriotismo-vs-nacionalismo/</link>
+      <link>/posts/patriotismo-vs-nacionalismo/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/patriotismo-vs-nacionalismo/</guid>
+      <guid>/posts/patriotismo-vs-nacionalismo/</guid>
       <description>En una entrevista a César Vidal Manzanares, el intelectual hizo una disertación espectacular sobre el patriotismo y el nacionalismo. A su criterio (y concuerdo con él) el patriotismo es el amor a la Patria de uno por encima de las demás Patrias; mientras que el nacionalismo es el amor a la Patria de uno odiando a las demás Patrias o culpándolas de las desgracias.&#xA;El gobierno de Cuba es nacionalista pues culpa a al gobierno de los EE.</description>
     </item>
   </channel>

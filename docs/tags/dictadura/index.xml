@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dictadura on Pensamientos</title>
-    <link>//localhost:1313/tags/dictadura/</link>
+    <link>/tags/dictadura/</link>
     <description>Recent content in Dictadura on Pensamientos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/dictadura/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/dictadura/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Opciones</title>
-      <link>//localhost:1313/posts/opciones/</link>
+      <link>/posts/opciones/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/opciones/</guid>
+      <guid>/posts/opciones/</guid>
       <description>Parece haber sido Al2 &amp;ldquo;El aldeano&amp;rdquo; el que firmó la sentencia:&#xA;&amp;ldquo;Patria ó Muerte&amp;rdquo; no es una consigna, son las opciones que te dan.&#xA;Brutal la reflexión.</description>
     </item>
   </channel>

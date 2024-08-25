@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pensamiento on Pensamientos</title>
-    <link>//localhost:1313/tags/pensamiento/</link>
+    <link>/tags/pensamiento/</link>
     <description>Recent content in Pensamiento on Pensamientos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/pensamiento/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/pensamiento/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Plan imaginario</title>
-      <link>//localhost:1313/posts/plan-imaginario/</link>
+      <link>/posts/plan-imaginario/</link>
       <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/plan-imaginario/</guid>
+      <guid>/posts/plan-imaginario/</guid>
       <description>Escuché que se le atribuye a Mike Tyson la frase:&#xA;&amp;ldquo;Todo el mundo tiene un plan hasta que le dan un piñazo en la cara&amp;rdquo;.</description>
     </item>
     <item>
       <title>Reloj roto</title>
-      <link>//localhost:1313/posts/reloj-roto/</link>
+      <link>/posts/reloj-roto/</link>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/reloj-roto/</guid>
+      <guid>/posts/reloj-roto/</guid>
       <description>Se dice mucho más fácil de lo que cuesta interpretarlo:&#xA;&amp;ldquo;Hasta un reloj roto da la hora correcta dos veces al día&amp;rdquo;.&#xA;Muy interesante frase para ejmplificar escenarios donde la razón o la lógica está en la otra parte involucrada, pero que se pudiera tener la razón en algo muy puntual.</description>
     </item>
   </channel>

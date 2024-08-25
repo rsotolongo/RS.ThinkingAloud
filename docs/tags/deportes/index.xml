@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Deportes on Pensamientos</title>
-    <link>//localhost:1313/tags/deportes/</link>
+    <link>/tags/deportes/</link>
     <description>Recent content in Deportes on Pensamientos</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 23 Jun 2021 00:00:00 +0000</lastBuildDate>
-    <atom:link href="//localhost:1313/tags/deportes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/tags/deportes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Desconocimiento</title>
-      <link>//localhost:1313/posts/desconocimiento/</link>
+      <link>/posts/desconocimiento/</link>
       <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/posts/desconocimiento/</guid>
+      <guid>/posts/desconocimiento/</guid>
       <description>El realizador Ian Padrón (Derecho a réplica), hijo de Juan Padrón (creador de &amp;ldquo;Elpidio Valdés&amp;rdquo; y de &amp;ldquo;Vampiros en La Habana&amp;rdquo;), entrevistó a su pelotero favorito: Lázaro Vargas. Ian Padrón fue el director del documental &amp;ldquo;Fuera de liga&amp;rdquo; sobre el equipo de pelota &amp;ldquo;Industriales&amp;rdquo; donde precisamente Lázaro Vargas comentaba como no guardaba ninguna camiseta del equipo porque las regalabas para &amp;lsquo;resolver&amp;rsquo; problemas (visita a un médico, litros de gasolina, etc.) precisamente en la entrevista le hizo una pregunta relacionada con eso.</description>
     </item>
   </channel>
