@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>salario on Pensamientos</title>
-    <link>/tags/salario/</link>
-    <description>Recent content in salario on Pensamientos</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Salario on Pensamientos</title>
+    <link>//localhost:1313/tags/salario/</link>
+    <description>Recent content in Salario on Pensamientos</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/salario/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/salario/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Salarios controlados</title>
-      <link>/posts/salarios-conrolados/</link>
+      <link>//localhost:1313/posts/salarios-conrolados/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/salarios-conrolados/</guid>
-      <description>En la directa de Fred González (Enrramadas Media) escuché algo muy interesante. Fred hacía una pregunta a los participantes, algo así como: &amp;ldquo;¿Por qué creen que Amazon no le sube el salario a sus empleados que menos ganan a pesar de que es la compañía con más ganancia en los últimos años?&amp;rdquo;.
-Luego él mismo la respondería argumentando que eso es un mecanismo para obligar a las personas a superarse por sí mismas en aras de obtener mejores beneficios como puestos de trabajo, salario, etc.</description>
+      <guid>//localhost:1313/posts/salarios-conrolados/</guid>
+      <description>En la directa de Fred González (Enrramadas Media) escuché algo muy interesante. Fred hacía una pregunta a los participantes, algo así como: &amp;ldquo;¿Por qué creen que Amazon no le sube el salario a sus empleados que menos ganan a pesar de que es la compañía con más ganancia en los últimos años?&amp;rdquo;.&#xA;Luego él mismo la respondería argumentando que eso es un mecanismo para obligar a las personas a superarse por sí mismas en aras de obtener mejores beneficios como puestos de trabajo, salario, etc.</description>
     </item>
-    
   </channel>
 </rss>

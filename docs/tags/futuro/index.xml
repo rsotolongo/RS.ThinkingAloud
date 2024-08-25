@@ -1,31 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>futuro on Pensamientos</title>
-    <link>/tags/futuro/</link>
-    <description>Recent content in futuro on Pensamientos</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Futuro on Pensamientos</title>
+    <link>//localhost:1313/tags/futuro/</link>
+    <description>Recent content in Futuro on Pensamientos</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/futuro/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/futuro/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sueño</title>
-      <link>/posts/sue%C3%B1o/</link>
+      <link>//localhost:1313/posts/sue%C3%B1o/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/sue%C3%B1o/</guid>
-      <description>No sé si influido por todo lo que estoy viendo o leyendo durante el día, pero anoche tuve un sueño que cuando menos puedo decir que fue: &amp;ldquo;lindísimo&amp;rdquo;.
-Soñé que en solo una noche, Cuba cambió. El día anterior estábamos bajo el yugo de la dictadura, y al día siguiente (donde se desarrollaba el sueño) vivíamos libres. Lo mejor de todo fue que todos los miedos que tenían los escépticos fueron por gusto, no hubo violencia, no hubo asesinatos, no hubo venganzas, simplemente comenzamos a construir la Cuba que merecen los cubanos.</description>
+      <guid>//localhost:1313/posts/sue%C3%B1o/</guid>
+      <description>No sé si influido por todo lo que estoy viendo o leyendo durante el día, pero anoche tuve un sueño que cuando menos puedo decir que fue: &amp;ldquo;lindísimo&amp;rdquo;.&#xA;Soñé que en solo una noche, Cuba cambió. El día anterior estábamos bajo el yugo de la dictadura, y al día siguiente (donde se desarrollaba el sueño) vivíamos libres. Lo mejor de todo fue que todos los miedos que tenían los escépticos fueron por gusto, no hubo violencia, no hubo asesinatos, no hubo venganzas, simplemente comenzamos a construir la Cuba que merecen los cubanos.</description>
     </item>
-    
     <item>
       <title>Futurología</title>
-      <link>/posts/futurolog%C3%ADa/</link>
+      <link>//localhost:1313/posts/futurolog%C3%ADa/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/futurolog%C3%ADa/</guid>
-      <description>Me dio mucha risa cuando lo escuché y luego me quedé pensando mucho en el hecho. Resulta ser que a finales del siglo XIX los periódicos londinenses se preocupaban mucho por el futuro de la ciudad por el gran problema ya existente con el estiércol de caballo. Había demasiados carruajes y caballos ensuciando la ciudad y las condiciones sanitarias empeoraban por día. Por eso la gran preocupación.
-Todo estaba dado porque solo se evaluaba la información que se tenía en ese entonces sin pensar que nuevas tecnologías podrían eliminar el problema, como a la postre resultó con la introducción y masificación de los automóviles.</description>
+      <guid>//localhost:1313/posts/futurolog%C3%ADa/</guid>
+      <description>Me dio mucha risa cuando lo escuché y luego me quedé pensando mucho en el hecho. Resulta ser que a finales del siglo XIX los periódicos londinenses se preocupaban mucho por el futuro de la ciudad por el gran problema ya existente con el estiércol de caballo. Había demasiados carruajes y caballos ensuciando la ciudad y las condiciones sanitarias empeoraban por día. Por eso la gran preocupación.&#xA;Todo estaba dado porque solo se evaluaba la información que se tenía en ese entonces sin pensar que nuevas tecnologías podrían eliminar el problema, como a la postre resultó con la introducción y masificación de los automóviles.</description>
     </item>
-    
   </channel>
 </rss>

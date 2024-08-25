@@ -1,22 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>república on Pensamientos</title>
-    <link>/tags/rep%C3%BAblica/</link>
-    <description>Recent content in república on Pensamientos</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>República on Pensamientos</title>
+    <link>//localhost:1313/tags/rep%C3%BAblica/</link>
+    <description>Recent content in República on Pensamientos</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/rep%C3%BAblica/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 11 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/rep%C3%BAblica/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Democracia vs. Repùblica</title>
-      <link>/posts/democracia-vs-rep%C3%BAblica/</link>
+      <link>//localhost:1313/posts/democracia-vs-rep%C3%BAblica/</link>
       <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/democracia-vs-rep%C3%BAblica/</guid>
-      <description>En palabras de Hugo Cardet (a.k.a &amp;ldquo;Politics en Español&amp;rdquo;):
- La diferencia entre democracia directa y república es que la democracia directa es el PODER de la mayoría mientras que la república es el DERECHO de la minoría.
- La mayoría pudiese votar por algo siempre y cuando no vaya en contra de otra cosa de la minoría. Respaldando esta regla en la constitución.</description>
+      <guid>//localhost:1313/posts/democracia-vs-rep%C3%BAblica/</guid>
+      <description>En palabras de Hugo Cardet (a.k.a &amp;ldquo;Politics en Español&amp;rdquo;):&#xA;La diferencia entre democracia directa y república es que la democracia directa es el PODER de la mayoría mientras que la república es el DERECHO de la minoría.&#xA;La mayoría pudiese votar por algo siempre y cuando no vaya en contra de otra cosa de la minoría. Respaldando esta regla en la constitución.</description>
     </item>
-    
   </channel>
 </rss>

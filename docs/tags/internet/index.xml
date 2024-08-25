@@ -2,42 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Internet on Pensamientos</title>
-    <link>/tags/internet/</link>
+    <link>//localhost:1313/tags/internet/</link>
     <description>Recent content in Internet on Pensamientos</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/internet/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 18 Feb 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/internet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agenda castrista</title>
-      <link>/posts/agenda-castrista/</link>
+      <link>//localhost:1313/posts/agenda-castrista/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/agenda-castrista/</guid>
+      <guid>//localhost:1313/posts/agenda-castrista/</guid>
       <description>Hace un tiempito ya que vengo notando como la mayoría de los influencers pro-castristas de las redes se han puesto de acuerdo para recurrir a los sentimientos para darse de buenos. Siempre es: &amp;ldquo;&amp;hellip;En contra del embargo y a favor de la familia cubana. Para que la ultraderecha de Miami deje de afectar a la familia cubana. La familia cubana que tanto ha sufrido y sufre con las políticas de embargo&amp;hellip;&amp;rdquo; y toda esa verborrea que sin dudas marca una agenda.</description>
     </item>
-    
     <item>
       <title>Problemas de las economías centralizadas</title>
-      <link>/posts/problemas-econom%C3%ADa-centralizada/</link>
+      <link>//localhost:1313/posts/problemas-econom%C3%ADa-centralizada/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/problemas-econom%C3%ADa-centralizada/</guid>
-      <description>Le escuché decir a Miklos Lukacs que Friedrich Hayek planteaba los dos problemas de una economía de planificación central:
-1- Información: Falta de instrumentos para recolectar todos los datos requeridos en tiempo real.
-2- Conocimiento: Incapacidad de procesar e interpretar el volumen de información.
-Solución: Interacción libre de las personas o Libre Mercado.
-Ambas problemas han sido resueltos con las computadoras e Internet el primero y con algoritmos e Inteligencia Artificial el segundo.</description>
+      <guid>//localhost:1313/posts/problemas-econom%C3%ADa-centralizada/</guid>
+      <description>Le escuché decir a Miklos Lukacs que Friedrich Hayek planteaba los dos problemas de una economía de planificación central:&#xA;1- Información: Falta de instrumentos para recolectar todos los datos requeridos en tiempo real.&#xA;2- Conocimiento: Incapacidad de procesar e interpretar el volumen de información.&#xA;Solución: Interacción libre de las personas o Libre Mercado.&#xA;Ambas problemas han sido resueltos con las computadoras e Internet el primero y con algoritmos e Inteligencia Artificial el segundo.</description>
     </item>
-    
     <item>
       <title>Plusvalía</title>
-      <link>/posts/plusval%C3%ADa/</link>
+      <link>//localhost:1313/posts/plusval%C3%ADa/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/plusval%C3%ADa/</guid>
-      <description>Nuevo concepto interesante a grabar en mi memoria: &amp;ldquo;Plusvalía del Comportamiento&amp;rdquo; (behavior surplus en inglés) que no es más que el inmenso conocimiento de nosotros que tienen las compañías de Internet. Eso se relaciona con otras ideas, la primera es esa de que &amp;ldquo;&amp;hellip;cuando algo es gratis, el producto eres tú mismo&amp;hellip;&amp;rdquo;.
-Cuando comenzamos a utilizar un servicio de Internet casi nunca nos leemos los términos y condiciones de uso por lo que vedemos nuestra alma como única forma de hacer uso del servicio.</description>
+      <guid>//localhost:1313/posts/plusval%C3%ADa/</guid>
+      <description>Nuevo concepto interesante a grabar en mi memoria: &amp;ldquo;Plusvalía del Comportamiento&amp;rdquo; (behavior surplus en inglés) que no es más que el inmenso conocimiento de nosotros que tienen las compañías de Internet. Eso se relaciona con otras ideas, la primera es esa de que &amp;ldquo;&amp;hellip;cuando algo es gratis, el producto eres tú mismo&amp;hellip;&amp;rdquo;.&#xA;Cuando comenzamos a utilizar un servicio de Internet casi nunca nos leemos los términos y condiciones de uso por lo que vedemos nuestra alma como única forma de hacer uso del servicio.</description>
     </item>
-    
   </channel>
 </rss>

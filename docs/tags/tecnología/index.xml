@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>tecnología on Pensamientos</title>
-    <link>/tags/tecnolog%C3%ADa/</link>
-    <description>Recent content in tecnología on Pensamientos</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Tecnología on Pensamientos</title>
+    <link>//localhost:1313/tags/tecnolog%C3%ADa/</link>
+    <description>Recent content in Tecnología on Pensamientos</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/tecnolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/tecnolog%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Futurología</title>
-      <link>/posts/futurolog%C3%ADa/</link>
+      <link>//localhost:1313/posts/futurolog%C3%ADa/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/futurolog%C3%ADa/</guid>
-      <description>Me dio mucha risa cuando lo escuché y luego me quedé pensando mucho en el hecho. Resulta ser que a finales del siglo XIX los periódicos londinenses se preocupaban mucho por el futuro de la ciudad por el gran problema ya existente con el estiércol de caballo. Había demasiados carruajes y caballos ensuciando la ciudad y las condiciones sanitarias empeoraban por día. Por eso la gran preocupación.
-Todo estaba dado porque solo se evaluaba la información que se tenía en ese entonces sin pensar que nuevas tecnologías podrían eliminar el problema, como a la postre resultó con la introducción y masificación de los automóviles.</description>
+      <guid>//localhost:1313/posts/futurolog%C3%ADa/</guid>
+      <description>Me dio mucha risa cuando lo escuché y luego me quedé pensando mucho en el hecho. Resulta ser que a finales del siglo XIX los periódicos londinenses se preocupaban mucho por el futuro de la ciudad por el gran problema ya existente con el estiércol de caballo. Había demasiados carruajes y caballos ensuciando la ciudad y las condiciones sanitarias empeoraban por día. Por eso la gran preocupación.&#xA;Todo estaba dado porque solo se evaluaba la información que se tenía en ese entonces sin pensar que nuevas tecnologías podrían eliminar el problema, como a la postre resultó con la introducción y masificación de los automóviles.</description>
     </item>
-    
   </channel>
 </rss>

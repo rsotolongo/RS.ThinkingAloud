@@ -2,20 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Europa on Pensamientos</title>
-    <link>/tags/europa/</link>
+    <link>//localhost:1313/tags/europa/</link>
     <description>Recent content in Europa on Pensamientos</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/europa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/europa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Recursos inhumanos</title>
-      <link>/posts/recursos-inhumanos/</link>
+      <link>//localhost:1313/posts/recursos-inhumanos/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/recursos-inhumanos/</guid>
-      <description>Así se llama una serie de Netflix que me hizo recordar muchísimo a la película española: &amp;ldquo;El método&amp;rdquo; pues trata de una compañía que quiere poner a prueba a sus altos ejecutivos y planea para ello una falsa toma de rehenes. Muy interesante el concepto pero no es el motivo por el que estoy escribiendo sobre ella.
-En el mismo primer capítulo la esposa del protagonista le dice: &amp;ldquo;No me molesta que trabajes para una compañía que despide empleados, si no que ayudes a hacerlo&amp;rdquo;.</description>
+      <guid>//localhost:1313/posts/recursos-inhumanos/</guid>
+      <description>Así se llama una serie de Netflix que me hizo recordar muchísimo a la película española: &amp;ldquo;El método&amp;rdquo; pues trata de una compañía que quiere poner a prueba a sus altos ejecutivos y planea para ello una falsa toma de rehenes. Muy interesante el concepto pero no es el motivo por el que estoy escribiendo sobre ella.&#xA;En el mismo primer capítulo la esposa del protagonista le dice: &amp;ldquo;No me molesta que trabajes para una compañía que despide empleados, si no que ayudes a hacerlo&amp;rdquo;.</description>
     </item>
-    
   </channel>
 </rss>

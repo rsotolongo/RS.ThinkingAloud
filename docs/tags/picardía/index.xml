@@ -1,20 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>picardía on Pensamientos</title>
-    <link>/tags/picard%C3%ADa/</link>
-    <description>Recent content in picardía on Pensamientos</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Picardía on Pensamientos</title>
+    <link>//localhost:1313/tags/picard%C3%ADa/</link>
+    <description>Recent content in Picardía on Pensamientos</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/picard%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/picard%C3%ADa/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bikini</title>
-      <link>/posts/bikini/</link>
+      <link>//localhost:1313/posts/bikini/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/bikini/</guid>
+      <guid>//localhost:1313/posts/bikini/</guid>
       <description>Le escuché decir a Manuel Milanés en una directa con Oscar (Old Hardcore) refiriéndose a las estafas piramidales (esquemas de Ponzi como Trust Investing) que eran como los bikinis de las mujeres: ocultan lo que todos quieren ver, jajaja&amp;hellip;</description>
     </item>
-    
   </channel>
 </rss>

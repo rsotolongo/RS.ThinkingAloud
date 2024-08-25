@@ -1,41 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ciencia on Pensamientos</title>
-    <link>/tags/ciencia/</link>
-    <description>Recent content in ciencia on Pensamientos</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Ciencia on Pensamientos</title>
+    <link>//localhost:1313/tags/ciencia/</link>
+    <description>Recent content in Ciencia on Pensamientos</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ciencia/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 02 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/ciencia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Desprogramar mentes</title>
-      <link>/posts/desprogramar-mentes/</link>
+      <link>//localhost:1313/posts/desprogramar-mentes/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/desprogramar-mentes/</guid>
-      <description>Darwin Santana (El mundo de Darwin) mencionó que estaba estudiando un tema que llamó mucho mi atención: la labor de un desprogramador.
-Existen personas que luego de salirse de sectas o cultos religiosos donde en muchos casos sufrieron vejaciones y abusos sistémicos, siguen adorando al gran líder. Es ahí cuando los desprogramadores entran en escena para ayudar a estas personas a despojarse completamente de estos pensamientos. Creo que el concepto se pudiera aplicar también a los que sufren del síndrome de Estocolmo.</description>
+      <guid>//localhost:1313/posts/desprogramar-mentes/</guid>
+      <description>Darwin Santana (El mundo de Darwin) mencionó que estaba estudiando un tema que llamó mucho mi atención: la labor de un desprogramador.&#xA;Existen personas que luego de salirse de sectas o cultos religiosos donde en muchos casos sufrieron vejaciones y abusos sistémicos, siguen adorando al gran líder. Es ahí cuando los desprogramadores entran en escena para ayudar a estas personas a despojarse completamente de estos pensamientos. Creo que el concepto se pudiera aplicar también a los que sufren del síndrome de Estocolmo.</description>
     </item>
-    
     <item>
       <title>Mente matemática</title>
-      <link>/posts/mente-matem%C3%A1tica/</link>
+      <link>//localhost:1313/posts/mente-matem%C3%A1tica/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/mente-matem%C3%A1tica/</guid>
-      <description>Creo que fue en una entrevista a César Vidal Manzanares donde contó una historia súper interesante sobre cómo funciona la mente de las personas que se dedican a las matemáticas.
-Resulta ser que durante la segunda guerra mundial, el ejército de los EE.UU. conformó un grupo de trabajo para reforzar el blindaje de los aviones de combate, compuesto tanto por matemáticos como por ingenieros militares. Al observar los agujeros por impactos de proyectiles en el fuselaje de los aviones, los ingenieros propusieron reforzar precisamente esas partes.</description>
+      <guid>//localhost:1313/posts/mente-matem%C3%A1tica/</guid>
+      <description>Creo que fue en una entrevista a César Vidal Manzanares donde contó una historia súper interesante sobre cómo funciona la mente de las personas que se dedican a las matemáticas.&#xA;Resulta ser que durante la segunda guerra mundial, el ejército de los EE.UU. conformó un grupo de trabajo para reforzar el blindaje de los aviones de combate, compuesto tanto por matemáticos como por ingenieros militares. Al observar los agujeros por impactos de proyectiles en el fuselaje de los aviones, los ingenieros propusieron reforzar precisamente esas partes.</description>
     </item>
-    
     <item>
       <title>Patriotismo vs. Nacionalismo</title>
-      <link>/posts/patriotismo-vs-nacionalismo/</link>
+      <link>//localhost:1313/posts/patriotismo-vs-nacionalismo/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/patriotismo-vs-nacionalismo/</guid>
-      <description>En una entrevista a César Vidal Manzanares, el intelectual hizo una disertación espectacular sobre el patriotismo y el nacionalismo. A su criterio (y concuerdo con él) el patriotismo es el amor a la Patria de uno por encima de las demás Patrias; mientras que el nacionalismo es el amor a la Patria de uno odiando a las demás Patrias o culpándolas de las desgracias.
-El gobierno de Cuba es nacionalista pues culpa a al gobierno de los EE.</description>
+      <guid>//localhost:1313/posts/patriotismo-vs-nacionalismo/</guid>
+      <description>En una entrevista a César Vidal Manzanares, el intelectual hizo una disertación espectacular sobre el patriotismo y el nacionalismo. A su criterio (y concuerdo con él) el patriotismo es el amor a la Patria de uno por encima de las demás Patrias; mientras que el nacionalismo es el amor a la Patria de uno odiando a las demás Patrias o culpándolas de las desgracias.&#xA;El gobierno de Cuba es nacionalista pues culpa a al gobierno de los EE.</description>
     </item>
-    
   </channel>
 </rss>

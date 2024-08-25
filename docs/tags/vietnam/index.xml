@@ -2,20 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vietnam on Pensamientos</title>
-    <link>/tags/vietnam/</link>
+    <link>//localhost:1313/tags/vietnam/</link>
     <description>Recent content in Vietnam on Pensamientos</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/vietnam/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/vietnam/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Libertad</title>
-      <link>/posts/libertad/</link>
+      <link>//localhost:1313/posts/libertad/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/libertad/</guid>
-      <description>Yo quiero la libertad para Cuba, libertad plena y no parcial. Desde hace tiempo, una idea volvía recurrentemente a mi mente: si el gobierno de Cuba adopta medidas para liberalizar cierta parte de la economía, podemos decirle adiós a la libertad de Cuba porque ni en 60 años más se obtendría.
-Durante años y años se ha rumoreado que Cuba debería transicionar hacia un modelo como el chino o el vietnamita.</description>
+      <guid>//localhost:1313/posts/libertad/</guid>
+      <description>Yo quiero la libertad para Cuba, libertad plena y no parcial. Desde hace tiempo, una idea volvía recurrentemente a mi mente: si el gobierno de Cuba adopta medidas para liberalizar cierta parte de la economía, podemos decirle adiós a la libertad de Cuba porque ni en 60 años más se obtendría.&#xA;Durante años y años se ha rumoreado que Cuba debería transicionar hacia un modelo como el chino o el vietnamita.</description>
     </item>
-    
   </channel>
 </rss>

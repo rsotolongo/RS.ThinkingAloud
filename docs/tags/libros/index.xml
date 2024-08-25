@@ -1,21 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>libros on Pensamientos</title>
-    <link>/tags/libros/</link>
-    <description>Recent content in libros on Pensamientos</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Libros on Pensamientos</title>
+    <link>//localhost:1313/tags/libros/</link>
+    <description>Recent content in Libros on Pensamientos</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/libros/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 24 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/libros/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Apariencias</title>
-      <link>/posts/apariencias/</link>
+      <link>//localhost:1313/posts/apariencias/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/apariencias/</guid>
-      <description>Las tres cosas que más me llamaron la atención del libro: &amp;ldquo;Memorias de un soldado cubano&amp;rdquo; de Dariel Alarcón Ramírez (Benigno) fueron:
-  Cuando la &amp;ldquo;Ofensiva Revolucionaria&amp;rdquo; de 1968 para intervenir completamente la economía cubana, y a pesar de la oposición de los economistas y hasta de algunos de sus más fieles seguidores (Almeida, Ramiro Valdés, etc.); Fidel dijo que se intervenía porque a él le salía de los coj&amp;hellip; y ya.</description>
+      <guid>//localhost:1313/posts/apariencias/</guid>
+      <description>Las tres cosas que más me llamaron la atención del libro: &amp;ldquo;Memorias de un soldado cubano&amp;rdquo; de Dariel Alarcón Ramírez (Benigno) fueron:&#xA;Cuando la &amp;ldquo;Ofensiva Revolucionaria&amp;rdquo; de 1968 para intervenir completamente la economía cubana, y a pesar de la oposición de los economistas y hasta de algunos de sus más fieles seguidores (Almeida, Ramiro Valdés, etc.); Fidel dijo que se intervenía porque a él le salía de los coj&amp;hellip; y ya.</description>
     </item>
-    
   </channel>
 </rss>

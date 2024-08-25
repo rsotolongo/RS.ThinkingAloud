@@ -2,415 +2,326 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Pensamientos</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Pensamientos</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Nov 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>pensamiento</title>
-      <link>/tags/pensamiento/</link>
+      <title>Pensamiento</title>
+      <link>//localhost:1313/tags/pensamiento/</link>
       <pubDate>Fri, 19 Nov 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pensamiento/</guid>
+      <guid>//localhost:1313/tags/pensamiento/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Cuba</title>
-      <link>/tags/cuba/</link>
+      <link>//localhost:1313/tags/cuba/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cuba/</guid>
+      <guid>//localhost:1313/tags/cuba/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>libros</title>
-      <link>/tags/libros/</link>
+      <title>Libros</title>
+      <link>//localhost:1313/tags/libros/</link>
       <pubDate>Thu, 24 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/libros/</guid>
+      <guid>//localhost:1313/tags/libros/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>deportes</title>
-      <link>/tags/deportes/</link>
+      <title>Deportes</title>
+      <link>//localhost:1313/tags/deportes/</link>
       <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/deportes/</guid>
+      <guid>//localhost:1313/tags/deportes/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>política</title>
-      <link>/tags/pol%C3%ADtica/</link>
+      <title>Política</title>
+      <link>//localhost:1313/tags/pol%C3%ADtica/</link>
       <pubDate>Wed, 23 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pol%C3%ADtica/</guid>
+      <guid>//localhost:1313/tags/pol%C3%ADtica/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>constitución</title>
-      <link>/tags/constituci%C3%B3n/</link>
+      <title>Constitución</title>
+      <link>//localhost:1313/tags/constituci%C3%B3n/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/constituci%C3%B3n/</guid>
+      <guid>//localhost:1313/tags/constituci%C3%B3n/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>leyes</title>
-      <link>/tags/leyes/</link>
+      <title>Leyes</title>
+      <link>//localhost:1313/tags/leyes/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/leyes/</guid>
+      <guid>//localhost:1313/tags/leyes/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>trabajo</title>
-      <link>/tags/trabajo/</link>
+      <title>Trabajo</title>
+      <link>//localhost:1313/tags/trabajo/</link>
       <pubDate>Sun, 25 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/trabajo/</guid>
+      <guid>//localhost:1313/tags/trabajo/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>definiciones</title>
-      <link>/tags/definiciones/</link>
+      <title>Definiciones</title>
+      <link>//localhost:1313/tags/definiciones/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/definiciones/</guid>
+      <guid>//localhost:1313/tags/definiciones/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>picardía</title>
-      <link>/tags/picard%C3%ADa/</link>
+      <title>Picardía</title>
+      <link>//localhost:1313/tags/picard%C3%ADa/</link>
       <pubDate>Mon, 19 Apr 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/picard%C3%ADa/</guid>
+      <guid>//localhost:1313/tags/picard%C3%ADa/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Internet</title>
-      <link>/tags/internet/</link>
+      <link>//localhost:1313/tags/internet/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/internet/</guid>
+      <guid>//localhost:1313/tags/internet/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>economía</title>
-      <link>/tags/econom%C3%ADa/</link>
+      <title>Economía</title>
+      <link>//localhost:1313/tags/econom%C3%ADa/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/econom%C3%ADa/</guid>
+      <guid>//localhost:1313/tags/econom%C3%ADa/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>IA</title>
-      <link>/tags/ia/</link>
+      <link>//localhost:1313/tags/ia/</link>
       <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ia/</guid>
+      <guid>//localhost:1313/tags/ia/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>salario</title>
-      <link>/tags/salario/</link>
+      <title>Salario</title>
+      <link>//localhost:1313/tags/salario/</link>
       <pubDate>Thu, 21 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/salario/</guid>
+      <guid>//localhost:1313/tags/salario/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>pandemia</title>
-      <link>/tags/pandemia/</link>
+      <title>Pandemia</title>
+      <link>//localhost:1313/tags/pandemia/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pandemia/</guid>
+      <guid>//localhost:1313/tags/pandemia/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>racismo</title>
-      <link>/tags/racismo/</link>
+      <title>Racismo</title>
+      <link>//localhost:1313/tags/racismo/</link>
       <pubDate>Fri, 08 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/racismo/</guid>
+      <guid>//localhost:1313/tags/racismo/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>familia</title>
-      <link>/tags/familia/</link>
+      <title>Familia</title>
+      <link>//localhost:1313/tags/familia/</link>
       <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/familia/</guid>
+      <guid>//localhost:1313/tags/familia/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>guerra</title>
-      <link>/tags/guerra/</link>
+      <title>Guerra</title>
+      <link>//localhost:1313/tags/guerra/</link>
       <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/guerra/</guid>
+      <guid>//localhost:1313/tags/guerra/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>futuro</title>
-      <link>/tags/futuro/</link>
+      <title>Futuro</title>
+      <link>//localhost:1313/tags/futuro/</link>
       <pubDate>Thu, 01 Oct 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/futuro/</guid>
+      <guid>//localhost:1313/tags/futuro/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>emprendiemiento</title>
-      <link>/tags/emprendiemiento/</link>
+      <title>Emprendiemiento</title>
+      <link>//localhost:1313/tags/emprendiemiento/</link>
       <pubDate>Wed, 16 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/emprendiemiento/</guid>
+      <guid>//localhost:1313/tags/emprendiemiento/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>hipocresía</title>
-      <link>/tags/hipocres%C3%ADa/</link>
+      <title>Hipocresía</title>
+      <link>//localhost:1313/tags/hipocres%C3%ADa/</link>
       <pubDate>Mon, 14 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/hipocres%C3%ADa/</guid>
+      <guid>//localhost:1313/tags/hipocres%C3%ADa/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>democracia</title>
-      <link>/tags/democracia/</link>
+      <title>Democracia</title>
+      <link>//localhost:1313/tags/democracia/</link>
       <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/democracia/</guid>
+      <guid>//localhost:1313/tags/democracia/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>república</title>
-      <link>/tags/rep%C3%BAblica/</link>
+      <title>República</title>
+      <link>//localhost:1313/tags/rep%C3%BAblica/</link>
       <pubDate>Fri, 11 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/rep%C3%BAblica/</guid>
+      <guid>//localhost:1313/tags/rep%C3%BAblica/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>dictadura</title>
-      <link>/tags/dictadura/</link>
+      <title>Dictadura</title>
+      <link>//localhost:1313/tags/dictadura/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/dictadura/</guid>
+      <guid>//localhost:1313/tags/dictadura/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>prisión</title>
-      <link>/tags/prisi%C3%B3n/</link>
+      <title>Prisión</title>
+      <link>//localhost:1313/tags/prisi%C3%B3n/</link>
       <pubDate>Mon, 07 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/prisi%C3%B3n/</guid>
+      <guid>//localhost:1313/tags/prisi%C3%B3n/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>adoctrinamiento</title>
-      <link>/tags/adoctrinamiento/</link>
+      <title>Adoctrinamiento</title>
+      <link>//localhost:1313/tags/adoctrinamiento/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/adoctrinamiento/</guid>
+      <guid>//localhost:1313/tags/adoctrinamiento/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>ciencia</title>
-      <link>/tags/ciencia/</link>
+      <title>Ciencia</title>
+      <link>//localhost:1313/tags/ciencia/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ciencia/</guid>
+      <guid>//localhost:1313/tags/ciencia/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>matemáticas</title>
-      <link>/tags/matem%C3%A1ticas/</link>
+      <title>Matemáticas</title>
+      <link>//localhost:1313/tags/matem%C3%A1ticas/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/matem%C3%A1ticas/</guid>
+      <guid>//localhost:1313/tags/matem%C3%A1ticas/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>variedad</title>
-      <link>/tags/variedad/</link>
+      <title>Variedad</title>
+      <link>//localhost:1313/tags/variedad/</link>
       <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/variedad/</guid>
+      <guid>//localhost:1313/tags/variedad/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>absurdo</title>
-      <link>/tags/absurdo/</link>
+      <title>Absurdo</title>
+      <link>//localhost:1313/tags/absurdo/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/absurdo/</guid>
+      <guid>//localhost:1313/tags/absurdo/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>izquierda</title>
-      <link>/tags/izquierda/</link>
+      <title>Izquierda</title>
+      <link>//localhost:1313/tags/izquierda/</link>
       <pubDate>Fri, 28 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/izquierda/</guid>
+      <guid>//localhost:1313/tags/izquierda/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>educación</title>
-      <link>/tags/educaci%C3%B3n/</link>
+      <title>Educación</title>
+      <link>//localhost:1313/tags/educaci%C3%B3n/</link>
       <pubDate>Mon, 24 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/educaci%C3%B3n/</guid>
+      <guid>//localhost:1313/tags/educaci%C3%B3n/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>tecnología</title>
-      <link>/tags/tecnolog%C3%ADa/</link>
+      <title>Tecnología</title>
+      <link>//localhost:1313/tags/tecnolog%C3%ADa/</link>
       <pubDate>Fri, 21 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tecnolog%C3%ADa/</guid>
+      <guid>//localhost:1313/tags/tecnolog%C3%ADa/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>China</title>
-      <link>/tags/china/</link>
+      <link>//localhost:1313/tags/china/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/china/</guid>
+      <guid>//localhost:1313/tags/china/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>libertad</title>
-      <link>/tags/libertad/</link>
+      <title>Libertad</title>
+      <link>//localhost:1313/tags/libertad/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/libertad/</guid>
+      <guid>//localhost:1313/tags/libertad/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Vietnam</title>
-      <link>/tags/vietnam/</link>
+      <link>//localhost:1313/tags/vietnam/</link>
       <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/vietnam/</guid>
+      <guid>//localhost:1313/tags/vietnam/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>marina mercante</title>
-      <link>/tags/marina-mercante/</link>
+      <title>Marina Mercante</title>
+      <link>//localhost:1313/tags/marina-mercante/</link>
       <pubDate>Mon, 17 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/marina-mercante/</guid>
+      <guid>//localhost:1313/tags/marina-mercante/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>mentira</title>
-      <link>/tags/mentira/</link>
+      <title>Mentira</title>
+      <link>//localhost:1313/tags/mentira/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/mentira/</guid>
+      <guid>//localhost:1313/tags/mentira/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>nacionalismo</title>
-      <link>/tags/nacionalismo/</link>
+      <title>Nacionalismo</title>
+      <link>//localhost:1313/tags/nacionalismo/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/nacionalismo/</guid>
+      <guid>//localhost:1313/tags/nacionalismo/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>patriotismo</title>
-      <link>/tags/patriotismo/</link>
+      <title>Patriotismo</title>
+      <link>//localhost:1313/tags/patriotismo/</link>
       <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/patriotismo/</guid>
+      <guid>//localhost:1313/tags/patriotismo/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>plusvalía</title>
-      <link>/tags/plusval%C3%ADa/</link>
+      <title>Plusvalía</title>
+      <link>//localhost:1313/tags/plusval%C3%ADa/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/plusval%C3%ADa/</guid>
+      <guid>//localhost:1313/tags/plusval%C3%ADa/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>simulación</title>
-      <link>/tags/simulaci%C3%B3n/</link>
+      <title>Simulación</title>
+      <link>//localhost:1313/tags/simulaci%C3%B3n/</link>
       <pubDate>Mon, 10 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/simulaci%C3%B3n/</guid>
+      <guid>//localhost:1313/tags/simulaci%C3%B3n/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>juicio</title>
-      <link>/tags/juicio/</link>
+      <title>Juicio</title>
+      <link>//localhost:1313/tags/juicio/</link>
       <pubDate>Fri, 07 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/juicio/</guid>
+      <guid>//localhost:1313/tags/juicio/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Europa</title>
-      <link>/tags/europa/</link>
+      <link>//localhost:1313/tags/europa/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/europa/</guid>
+      <guid>//localhost:1313/tags/europa/</guid>
       <description></description>
     </item>
-    
     <item>
-      <title>concepto</title>
-      <link>/tags/concepto/</link>
+      <title>Concepto</title>
+      <link>//localhost:1313/tags/concepto/</link>
       <pubDate>Mon, 03 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/concepto/</guid>
+      <guid>//localhost:1313/tags/concepto/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
