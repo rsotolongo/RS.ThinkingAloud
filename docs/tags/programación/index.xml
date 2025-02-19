@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programación on Pensamientos</title>
+    <link>/tags/programaci%C3%B3n/</link>
+    <description>Recent content in Programación on Pensamientos</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/programaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interfaces vs. Clases Abstractas</title>
+      <link>/posts/interfaces-abstracciones/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/interfaces-abstracciones/</guid>
+      <description>&lt;p&gt;Si se quiere definir un contrato con un comportamiento por defecto, las interfaces con implementaciones por defecto son una buena elección. Por otra parte, si se quiere crear una clase con comportamiento común, entonces, las clases abstractas pueden ser una herramienta valuale.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sprints</title>
+      <link>/posts/sprints/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/sprints/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Sprints&amp;rdquo;: El error más grande del momento en la ingeniería de software. Para hoy en día ya deberíamos saber que la metodología ágil no va de ser rápido; es acerca de entregar valor pronto y de manera constante y ser capaces de reaccionar y cambiar temprano. Sprints, sin embargo, son solo una caja de tiempo para completar cierta cantidad de trabajo. Los ejecutivos de las empresas incitan a adoptar metodologías ágiles porque piensan que va sobre velocidad pero el problema más grande es que hacer software no es una carrera de velocidad, si no un maratón.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

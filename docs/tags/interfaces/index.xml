@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Interfaces on Pensamientos</title>
+    <link>/tags/interfaces/</link>
+    <description>Recent content in Interfaces on Pensamientos</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 31 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/interfaces/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interfaces vs. Clases Abstractas</title>
+      <link>/posts/interfaces-abstracciones/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/interfaces-abstracciones/</guid>
+      <description>&lt;p&gt;Si se quiere definir un contrato con un comportamiento por defecto, las interfaces con implementaciones por defecto son una buena elección. Por otra parte, si se quiere crear una clase con comportamiento común, entonces, las clases abstractas pueden ser una herramienta valuale.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

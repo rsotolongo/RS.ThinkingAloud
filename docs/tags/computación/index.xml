@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computación on Pensamientos</title>
+    <link>/tags/computaci%C3%B3n/</link>
+    <description>Recent content in Computación on Pensamientos</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/computaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cosas difíciles</title>
+      <link>/posts/cosas-dif%C3%ADciles/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/cosas-dif%C3%ADciles/</guid>
+      <description>&lt;p&gt;No puedo atribuírselo a nadie en particular, pero no deja de ser 100% verídico:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Solo hay dos cosas difíciles en la ciencia de la computación: invalidación de cache y nombrar cosas&amp;rdquo;.&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>Capacidad computacional</title>
+      <link>/posts/capacidad-computacional/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/capacidad-computacional/</guid>
+      <description>&lt;p&gt;Oscar Vara en su canal de Youtube presentando el libro: &amp;ldquo;La física de la inmortalidad&amp;rdquo; de Frank J. Tipler:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Los muertos resusitarán cuando la capacidad computacional del Universo sea tan grande como la cantidad de capacidad requerida para almacenar todas las posibles simulaciones humanas en una insignificante fracción de su capacidad total. Ya que existirá este poder de computación, resucitarán no solo los seres humanos, si no todas las cucarachas, todas las moscas, y todos los seres no humanos que hayan existido sobre la Tierra. Esta teoría del &amp;ldquo;Punto Omega&amp;rdquo; permitirá que conceptos claves de la tradición judeo-cristiana-islámica se conviertan en conceptos de la física moderna. La teología no es más que una cosmología física basada en el supuesto que toda la vida, toda vida como conjunto, es inmortal. Una consecuencia de esta hipótesis es la resurreción de todos los que han vivido tendrán una vida eterna. La física absorve a la teología, el divorcio entre ciencia y religión entre razón y emoción se hace raro, la ciencia ofrece ahora, con precisión, consuelo a aquellos que se enfrentan a la muerte y que antes ofrecía la religión, la solución es ahora, parte de la ciencia&amp;rdquo;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Interfaces vs. Clases Abstractas</title>
+      <link>/posts/interfaces-abstracciones/</link>
+      <pubDate>Fri, 31 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/interfaces-abstracciones/</guid>
+      <description>&lt;p&gt;Si se quiere definir un contrato con un comportamiento por defecto, las interfaces con implementaciones por defecto son una buena elección. Por otra parte, si se quiere crear una clase con comportamiento común, entonces, las clases abstractas pueden ser una herramienta valuale.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sprints</title>
+      <link>/posts/sprints/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/sprints/</guid>
+      <description>&lt;p&gt;&amp;ldquo;Sprints&amp;rdquo;: El error más grande del momento en la ingeniería de software. Para hoy en día ya deberíamos saber que la metodología ágil no va de ser rápido; es acerca de entregar valor pronto y de manera constante y ser capaces de reaccionar y cambiar temprano. Sprints, sin embargo, son solo una caja de tiempo para completar cierta cantidad de trabajo. Los ejecutivos de las empresas incitan a adoptar metodologías ágiles porque piensan que va sobre velocidad pero el problema más grande es que hacer software no es una carrera de velocidad, si no un maratón.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

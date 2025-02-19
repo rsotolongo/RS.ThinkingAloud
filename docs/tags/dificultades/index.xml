@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dificultades on Pensamientos</title>
+    <link>/tags/dificultades/</link>
+    <description>Recent content in Dificultades on Pensamientos</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/tags/dificultades/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cosas difíciles</title>
+      <link>/posts/cosas-dif%C3%ADciles/</link>
+      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>/posts/cosas-dif%C3%ADciles/</guid>
+      <description>&lt;p&gt;No puedo atribuírselo a nadie en particular, pero no deja de ser 100% verídico:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&amp;ldquo;Solo hay dos cosas difíciles en la ciencia de la computación: invalidación de cache y nombrar cosas&amp;rdquo;.&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+  </channel>
+</rss>
