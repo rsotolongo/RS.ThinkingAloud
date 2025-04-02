@@ -2,40 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/tags/cuba/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/efecto-domin%C3%B3/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/historia/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2025-04-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/dios/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/dios-existe/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/religi%C3%B3n/</loc>
+    <lastmod>2025-03-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/democracia/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/democracia-tontos/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/posts/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2025-02-17T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/tags/tontos/</loc>
     <lastmod>2025-02-17T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/liberalismo/</loc>
-    <lastmod>2025-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/liberalismo/</loc>
     <lastmod>2025-02-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/procrastinaci%C3%B3n/</loc>
-    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
+    <loc>/tags/liberalismo/</loc>
+    <lastmod>2025-02-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/procrastinaci%C3%B3n/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/comunismo/</loc>
-    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+    <loc>/tags/procrastinaci%C3%B3n/</loc>
+    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/comunismo-real-ut%C3%B3pico/</loc>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/comunismo/</loc>
     <lastmod>2025-02-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/realidad/</loc>
@@ -65,22 +83,22 @@
     <loc>/posts/capacidad-computacional/</loc>
     <lastmod>2025-02-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/libertarismo/</loc>
-    <lastmod>2025-02-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/posts/libertarismo/</loc>
     <lastmod>2025-02-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/inteligencia/</loc>
-    <lastmod>2025-02-05T00:00:00+00:00</lastmod>
+    <loc>/tags/libertarismo/</loc>
+    <lastmod>2025-02-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/inteligencia/</loc>
     <lastmod>2025-02-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/constante/</loc>
-    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+    <loc>/tags/inteligencia/</loc>
+    <lastmod>2025-02-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/constante/</loc>
+    <lastmod>2025-02-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/constante/</loc>
     <lastmod>2025-02-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/abstracciones/</loc>
@@ -95,10 +113,10 @@
     <loc>/tags/programaci%C3%B3n/</loc>
     <lastmod>2025-01-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/sprints/</loc>
+    <loc>/posts/sprints/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/sprints/</loc>
+    <loc>/tags/sprints/</loc>
     <lastmod>2025-01-30T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/experimento/</loc>
@@ -120,9 +138,6 @@
     <lastmod>2021-11-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/apariencias/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/cuba/</loc>
     <lastmod>2021-06-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/libros/</loc>
@@ -227,10 +242,10 @@
     <loc>/posts/semanas-cortas/</loc>
     <lastmod>2020-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hipocres%C3%ADa/</loc>
+    <loc>/posts/hipocres%C3%ADa/</loc>
     <lastmod>2020-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/hipocres%C3%ADa/</loc>
+    <loc>/tags/hipocres%C3%ADa/</loc>
     <lastmod>2020-09-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/posts/democracia-vs-rep%C3%BAblica/</loc>
@@ -305,10 +320,10 @@
     <loc>/tags/china/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/libertad/</loc>
+    <loc>/posts/libertad/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/libertad/</loc>
+    <loc>/tags/libertad/</loc>
     <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/vietnam/</loc>
@@ -335,10 +350,10 @@
     <loc>/posts/patriotismo-vs-nacionalismo/</loc>
     <lastmod>2020-08-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/plusval%C3%ADa/</loc>
+    <loc>/posts/plusval%C3%ADa/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/plusval%C3%ADa/</loc>
+    <loc>/tags/plusval%C3%ADa/</loc>
     <lastmod>2020-08-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/simulaci%C3%B3n/</loc>
