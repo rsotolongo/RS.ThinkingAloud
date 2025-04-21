@@ -9,11 +9,8 @@
     <div>
       <strong>Tags: </strong>
       {{ range . }}
-        {{ $href := print ("tags/" | absLangURL) (. | urlize) "/" }}
-        {{ $element := printf "<a href=\"%s\">%s</a>" $href . }}
-        {{ $tags = $tags | append $element }}
+        <a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a>
       {{ end }}
-      {{ delimit $tags ", " }}
     </div>
   {{ end }}
   {{ .Content }}
